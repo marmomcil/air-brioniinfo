@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrioniInfo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_informacije">Informacije</string>
+    <string name="title_activity_cjenik">Cjenik usluga</string>
+    
+    <string name="title_activity_vozni_red">VozniRedActivity</string>
+    <string name="title_activity_poseban_vozni_red">PosebanVozniRedActivity</string><string name="btnPregledInformacija">Informacije</string>
+    <string name="btnCjenikUsluga">Cjenik usluga</string>
+    <string name="btnVozniRed">Vozni red</string>
+    <string name="btnPosebanVozniRed">Poseban vozni red</string>
+
+    <string-array name="naslovi" >
+	    <item >Osnovne djelatnosti:</item>
+	    <item >Osnovni podaci o poduzeću:</item>
+	    <item >Kontakt:</item>
+	    <item >Adresa:</item>
+	</string-array>
+	
+	<string-array name="opisi" >
+	    <item >
+	    - Prijevoz putnika u zemlji i inozemstvu
+	    \n- Putnička agencija
+	    \n- Trgovina rezervnih dijelova za osobna i gospodarska vozila
+	    \n- Popravak i održavanje cestovnih motornih vozila
+	    \n- Stanica za tehnički pregled vozila
+	    \n- Autopraonica
+	    \n- Valvoline servis
+	    \n- MAX LIFE servis
+	    \n- Prodaja i servis akumulatora VARTA
+	    \n- Tahograf servis
+	    </item>
+	    <item >
+	    Brioni d.d. Pula je poduzeće čija je osnovna djelatnost prijevoz putnika u zemlji i inozemstvu. 
+	    Svoje korijene vuče još od davne 1946. godine kada je osnovano "Autopoduzeće za Istru"
+	    u Vodnjanu gdje je djelovalo sve do pripojenja Pule Republici Hrvatskoj, 15. svibnja 
+	    1947. Poduzeće seli u Pulu gdje pod istim nazivom posluje do 18. lipnja 1948. godine.
+	    Dolazi i do promjene naziva poduzeća koje, dakle od 19. lipnja 1948. pa do 31. prosinca
+	    1954. godine glasi "Transportno remontno autopoduzeće" - Pula, a od početka godine 1955.
+	    naziv tvrtke mijenja se u "Autosaobraćaj" - Pula.
+	    Pripajanje poduzeću "Autotrans" - Rijeka uslijedilo je 13. svibnja 1963. Pod tim 
+	    nazivom poduzeće posluje do 5. rujna 1966. kada ponovno dolazi do osamostaljivanja 
+	    poduzeća i preuzimanja imena "Autosaobraćaj".
+	    \nDanašnji naziv "Brioni" prvi se put pojavljuje 8. siječnja 1972. kada je uslijedilo 
+	    i spajanje sa komunalnim poduzećem za lokalni prijevoz putnika.
+	    Nakon postupka redovne likvidacije krajem 1985. godine s ciljem preustroja registrirana
+	    je cjelovita RO Brioni Pula.
+	    \nSukladno zakonu o pretvorbi društvenih poduzeća, 1993. Brioni se konstituiraju kao 
+	    dioničko društvo.
+	    </item>
+	    <item >
+	    Centrala:	+385 52 535 155
+	    \nTelefax:	+385 52 535 158
+	    \nE-mail: 	brioni@brioni.hr, turizam@brioni.hr
+	    \nWeb stranica: www.brioni.hr 										
+		\nAutobusni kolodvor: 
+		\n- informacije	+385 52 544 537
+        \n- rezervacije	+385 52 522 786
+        </item>
+	    <item >
+	    Brioni d.d.
+	    \nŠijanska cesta 4
+	    \n52100 Pula
+	    </item>
+	   </string-array>
+    	<string name="polazna_stanica">Polazna stanica
+    	    
+    	</string>
+    	
+    	<string name="msg_uknown_problem">Nepoznati problem</string>
+    	<string name="msg_check_internet">Provjeri vezu</string>
+    	<string name="msg_check_data_and_internet">Provjeri podatke i vezu</string>
+</resources>
